@@ -342,11 +342,6 @@ function submit(e)
 
 
 
-// Assignment 5 b. Write the content to an html table.
-
-
-
-
 
 
 
